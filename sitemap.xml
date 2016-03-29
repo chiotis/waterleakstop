@@ -8,49 +8,61 @@
 
 <url>
   <loc>http://waterleakstop.com/</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/contact.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waterleakstop.com/sales-spot.html</loc>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/user-manual.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/buy.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/el/</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/el/contact.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://waterleakstop.com/el/sales-spots.html</loc>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/el/user-manual.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://waterleakstop.com/el/buy.html</loc>
-  <lastmod>2015-10-11T20:43:02+00:00</lastmod>
+  <lastmod>2016-03-29T20:23:32+00:00</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
